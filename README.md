@@ -90,4 +90,4 @@ Contributions are welcome! If you have ideas for features or find bugs, feel fre
 
 ---
 
-*Made with ❤️ for WooCommerce Store Owners.*
+*Made with ❤️ by A.DEV for WooCommerce Store Owners.*
