@@ -1,0 +1,21 @@
+# WordPress/WooCommerce generic gitignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+dist/
+*.zip
+
+# Ignore localized vendor files if any
+vendor/
+
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/languages/
+!wp-content/plugins/
+!wp-content/themes/

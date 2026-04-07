@@ -1,0 +1,26 @@
+
+
+.wc-bulk-variations-form {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    overflow-x: auto;
+}
+
+.bulk-variations-table {
+    width: 100%;
+    margin: 10px 0;
+    border-collapse: collapse;
+}
+
+.bulk-variations-table th, 
+.bulk-variations-table td {
+    padding: 8px;
+    border: 1px solid #eee;
+    text-align: left;
+}
+
+.bulk-variations-table input {
+    width: 60px;
+    text-align: center;
+}
